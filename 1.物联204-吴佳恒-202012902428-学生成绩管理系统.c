@@ -28,7 +28,7 @@ void Welcome()
     printf("\t\t  专业：物联网工程\n");
     printf("\t\t  班级：物联204\n");
     printf("\t\t  姓名：吴佳恒\n");
-    printf("\t\t  学号：202012902428\n");////
+    printf("\t\t  学号：202012902428\n");
     printf("\t\t   2020年3月4日\n"); 
     printf("\n");printf("\n");
 }
